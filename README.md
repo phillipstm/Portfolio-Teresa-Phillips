@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+portfolio-teresa-phillips.netlify.app
