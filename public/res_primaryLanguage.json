@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Teresa Phillips. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Teresa Phillips. I'm working with full stack development frameworks like React and Vue. 60Sec pitch!!!HERE!!! If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Procter & Gamble",
+        "title": "Analyst I (Technical & Administrative)",
+        "years": "05.2014 - 07.2020",
         "mainTech": [
-          "Angular 8/9/10"
+          "MicroSoft Office Suite"
         ],
         "technologies": [
           "REST API",
